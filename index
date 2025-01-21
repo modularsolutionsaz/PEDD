@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tohono Nation – PEDD Project Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #0078D7;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            margin: 2rem auto;
+            padding: 1rem;
+            max-width: 800px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0078D7;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 0.5rem 0;
+        }
+        .contact {
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tohono Nation – PEDD (Planning & Economic Development)</h1>
+        <h2>Project Information</h2>
+    </header>
+    <main>
+        <section>
+            <h2>Project Information</h2>
+            <ul>
+                <li><strong>Project Name:</strong> Tohono Nation – PEDD (Planning & Economic Development)</li>
+                <li><strong>General Contractor:</strong> Modular Solutions, LTD.</li>
+            </ul>
+        </section>
+
+        <section class="contact">
+            <h2>Contact Information</h2>
+            <ul>
+                <li><strong>Project Manager:</strong> John Wolfchief - 602.784.7374</li>
+                <li><strong>On-Site Contact:</strong> Clarence Robertson - 623.332.0283</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Customer Details</h2>
+            <ul>
+                <li><strong>Customer Name:</strong> Planning Department</li>
+                <li><strong>Director:</strong> Marilyn Celestine</li>
+                <li><strong>Secondary Contact:</strong> David Madril</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Site Requirements</h2>
+            <p>All workers and subcontractors are required to have hiring slips issued by TERO to work on the job site.</p>
+        </section>
+    </main>
+</body>
+</html>
